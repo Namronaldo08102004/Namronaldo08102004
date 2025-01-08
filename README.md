@@ -69,6 +69,21 @@
 <br/>
 <hr/>
 
+<div align = "center">
+    <h2>📺 Latest YouTube Videos 📺</h2>
+</div>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![[CSC13002 - Introduction to SE] Group05 - Algorhythm - Video demo](https://ytcards.demolab.com/?id=CYc0fNSmMA8&title=%5BCSC13002+-+Introduction+to+SE%5D+Group05+-+Algorhythm+-+Video+demo&lang=en&timestamp=1735633636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[CSC13002 - Introduction to SE] Group05 - Algorhythm - Video demo")](https://www.youtube.com/watch?v=CYc0fNSmMA8)
+[![Những giai điệu khùng điên tự nghĩ - Bản số 7](https://ytcards.demolab.com/?id=bD2dBgcPia4&title=Nh%E1%BB%AFng+giai+%C4%91i%E1%BB%87u+kh%C3%B9ng+%C4%91i%C3%AAn+t%E1%BB%B1+ngh%C4%A9+-+B%E1%BA%A3n+s%E1%BB%91+7&lang=en&timestamp=1733895924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Những giai điệu khùng điên tự nghĩ - Bản số 7")](https://www.youtube.com/watch?v=bD2dBgcPia4)
+[![Những giai điệu khùng điên tự nghĩ  - Bản số 6](https://ytcards.demolab.com/?id=08U5W9Jf5OY&title=Nh%E1%BB%AFng+giai+%C4%91i%E1%BB%87u+kh%C3%B9ng+%C4%91i%C3%AAn+t%E1%BB%B1+ngh%C4%A9++-+B%E1%BA%A3n+s%E1%BB%91+6&lang=en&timestamp=1733895865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Những giai điệu khùng điên tự nghĩ  - Bản số 6")](https://www.youtube.com/watch?v=08U5W9Jf5OY)
+[![Những giai điệu khùng điên tự nghĩ - Bản số 5](https://ytcards.demolab.com/?id=tg9ffcShFA8&title=Nh%E1%BB%AFng+giai+%C4%91i%E1%BB%87u+kh%C3%B9ng+%C4%91i%C3%AAn+t%E1%BB%B1+ngh%C4%A9+-+B%E1%BA%A3n+s%E1%BB%91+5&lang=en&timestamp=1733895776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Những giai điệu khùng điên tự nghĩ - Bản số 5")](https://www.youtube.com/watch?v=tg9ffcShFA8)
+[![Những giai điệu khùng điên tự nghĩ - Bản số 4](https://ytcards.demolab.com/?id=3qAYKLG4D7Y&title=Nh%E1%BB%AFng+giai+%C4%91i%E1%BB%87u+kh%C3%B9ng+%C4%91i%C3%AAn+t%E1%BB%B1+ngh%C4%A9+-+B%E1%BA%A3n+s%E1%BB%91+4&lang=en&timestamp=1733895703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Những giai điệu khùng điên tự nghĩ - Bản số 4")](https://www.youtube.com/watch?v=3qAYKLG4D7Y)
+[![Những giai điệu khùng điên tự nghĩ - Bản số 3](https://ytcards.demolab.com/?id=Dtz3NcaJjAI&title=Nh%E1%BB%AFng+giai+%C4%91i%E1%BB%87u+kh%C3%B9ng+%C4%91i%C3%AAn+t%E1%BB%B1+ngh%C4%A9+-+B%E1%BA%A3n+s%E1%BB%91+3&lang=en&timestamp=1703850123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Những giai điệu khùng điên tự nghĩ - Bản số 3")](https://www.youtube.com/watch?v=Dtz3NcaJjAI)
+<!-- END YOUTUBE-CARDS -->
+
+
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
