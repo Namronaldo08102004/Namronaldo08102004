@@ -73,19 +73,6 @@
     <h2>📺 Latest YouTube Videos 📺</h2>
 </div>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.youtube.com/watch?v=aId37uD-Zoo"><img src="https://ytcards.demolab.com/?id=VRUof7FLu6c&title=Emotional+ChatBot&lang=en&timestamp=VRUof7FLu6c&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529" alt="MathLLM"/></a>
-  <a href="https://www.youtube.com/watch?v=CYc0fNSmMA8&t=2s"><img src="https://ytcards.demolab.com/?id=zi8hFksplgs&title=Document+ChatBot+Q+-+A&lang=en&timestamp=zi8hFksplgs&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Canary Music Streaming Service"/></a>
-  <a href="https://www.youtube.com/watch?v=Doc2UtP7quE&t=15s"><img src="https://ytcards.demolab.com/?id=AUKowyjpIHE&title=Project+Design+Pattern+OOP&lang=en&timestamp=AUKowyjpIHE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=914" alt="PC Control via Email"/></a>
-  <a href="https://www.youtube.com/watch?v=NIlWVe0NyLs&t=1s"><img src="https://ytcards.demolab.com/?id=-wloHUp86EU&title=Online+Book+Store+UI+Demo&lang=en&timestamp=-wloHUp86EU&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2195" alt="CMS Student's Features"/></a>
-  <a href="https://www.youtube.com/watch?v=6E_q5S_szys&t=1s"><img src="https://ytcards.demolab.com/?id=LvsKcd263B4&title=Wumpus+World+Game+AI&lang=en&timestamp=LvsKcd263B4&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=589" alt="CMS Staff's Features"/></a>
-  <a href="https://www.youtube.com/watch?v=NvrVm8J1K0U&t=73s&pbjreload=102"><img src="https://ytcards.demolab.com/?id=8O4jLFzmkPg&title=Delivery+System+AI+Searching&lang=en&timestamp=8O4jLFzmkPg&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337" alt="Being bigger than yourself"/></a>
-</div>
-<!-- END YOUTUBE-CARDS -->
-
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
