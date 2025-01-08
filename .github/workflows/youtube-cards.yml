@@ -9,9 +9,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: Namronaldo08102004/github-readme-youtube-cards@main
+      - uses: PhuocPhat1005/github-readme-youtube-cards@main
         with:
-          channel_id: UCD7UqwlMVrtY1wGGNYxYv4g
+          channel_id: UCSB2-go3bsdrDBBV5t6RAWA
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
