@@ -13,6 +13,6 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: PhuocPhat1005/github-readme-youtube-cards@main
         with:
           channel_id: UCSB2-go3bsdrDBBV5t6RAWA
