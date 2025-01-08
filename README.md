@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Namronaldo08102004&no-bg=true&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="Namronaldo08102004" /></a> </p>
  
-🔭 I’m currently research on **Visual Question Answering**
+🔭 I’m currently researching on **Visual Question Answering**
 
 ✍️ I'm currently studying at **University of Science**, **National University of Ho Chi Minh City**
 
