@@ -69,10 +69,6 @@
 <br/>
 <hr/>
 
-<div align = "center">
-    <h2>📺 Latest YouTube Videos 📺</h2>
-</div>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
