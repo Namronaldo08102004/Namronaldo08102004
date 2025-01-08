@@ -17,4 +17,5 @@ jobs:
         with:
           channel_id: UCSB2-go3bsdrDBBV5t6RAWA
           comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
