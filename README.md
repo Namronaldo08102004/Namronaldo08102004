@@ -97,11 +97,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dungxibo123&show_icons=true&locale=en&layout=compact&theme=radical&hide=HTML,Jupyter%20Notebook" alt="dungxibo123" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Namronaldo08102004&show_icons=true&locale=en&layout=compact&theme=radical&hide=HTML,Jupyter%20Notebook" alt="Namronaldo08102004" /></p>
 
   <br>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dungxibo123&show_icons=true&locale=en&theme=radical" alt="dungxibo123" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Namronaldo08102004&show_icons=true&locale=en&theme=radical" alt="Namronaldo08102004" /></p>
 
 </div>
 
